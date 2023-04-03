@@ -1,0 +1,12 @@
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\bin\Debug\MiniWord_DoVanLam.exe.config
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\bin\Debug\MiniWord_DoVanLam.exe
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\bin\Debug\MiniWord_DoVanLam.pdb
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\obj\Debug\MiniWord_DoVanLam.csproj.AssemblyReference.cache
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\obj\Debug\MiniWord_DoVanLam.csproj.SuggestedBindingRedirects.cache
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\obj\Debug\MiniWord_DoVanLam.Form1.resources
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\obj\Debug\MiniWord_DoVanLam.Properties.Resources.resources
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\obj\Debug\MiniWord_DoVanLam.csproj.GenerateResource.cache
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\obj\Debug\MiniWord_DoVanLam.csproj.CoreCompileInputs.cache
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\obj\Debug\MiniWord_DoVanLam.exe
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\obj\Debug\MiniWord_DoVanLam.pdb
+D:\Winform\HOC\MiniWord_DoVanLam\MiniWord_DoVanLam\obj\Debug\MiniWord_DoVanLam.Find.resources
